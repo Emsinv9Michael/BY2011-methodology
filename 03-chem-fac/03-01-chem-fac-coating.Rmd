@@ -1,5 +1,5 @@
 ## Coatings & Inks {#chem-fac-coatings}
-
+### This is a test - to be deleted later
 ```{r chem-fac-coatings-setup}
 THESE_CATEGORIES <- c(
   "#23 Coatings and Inks Manufacturing" = 23)
